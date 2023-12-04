@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# web3-nft-demo
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+在这个 Demo 里将使用 Metamask、Solidity、Hardhat、Pinata 和 Alchemy 在 Sepolia 测试网络上创建和部署一个 ERC-721 智能合约。
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+可以配合文档使用：
+https://www.yuque.com/u1496097/sao4xa/vbtgc0kv5s6zv8wz
